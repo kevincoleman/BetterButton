@@ -8,7 +8,7 @@ export const styles = StyleSheet.create ({
     paddingBottom: 12,
     paddingLeft: 22,
     margin: 18,
-    borderWidth: 1,
+    backgroundColor: '#00000033',
   },
   buttonTitle: {
     textAlign: 'center',
