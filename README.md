@@ -1,5 +1,5 @@
 # BetterButton
-BetterButton is an attempt at simplifying buttons that you get “out of the box” in React Native. The native Button element is a joke, and with React Native’s Pressable component you get more control—but this component blends the two into something that’s reasonable as an out-of-the-box button.
+BetterButton is an attempt at simplifying buttons that you get “out of the box” in React Native. The native [Button](https://reactnative.dev/docs/button) element is a joke, and with React Native’s [Pressable](https://reactnative.dev/docs/pressable) component you get more control—but this component blends the two into something that’s reasonable as an out-of-the-box button.
 
 This is intended to be dropped into an existing React Native project, so it doesn’t come bundled with a bunch of dependencies. It relies only on React and React Native. It is also written in TypeScript.
 
