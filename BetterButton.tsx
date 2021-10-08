@@ -39,12 +39,12 @@ const BetterButton: (props: Props) => FunctionComponentElement<unknown> = (props
         style={[
           styles.buttonTitle,
           titleStyles,
-        ]}>
+        ]}
+      >
         {title}
       </Text> 
     </Pressable>
   )
-
 }
 
 export default BetterButton
