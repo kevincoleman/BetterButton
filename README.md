@@ -3,8 +3,9 @@ BetterButton is an attempt at simplifying buttons that you get “out of the box
 
 This is intended to be dropped into an existing React Native project, so it doesn’t come bundled with a bunch of dependencies. It relies only on React and React Native. It is also written in TypeScript.
 
-## Definitions
 BetterButton is opinionated. It takes the most useful parts of Pressable and blends them with the most useful parts of Button. It is also a wrapper, not a raw class extension, so it is not externally extensible. Modify as you wish.
+
+## Props
 
 ### title
 Required string. This is the title to be used inside the button
