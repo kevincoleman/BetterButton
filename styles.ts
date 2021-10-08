@@ -2,6 +2,7 @@ import { StyleSheet } from 'react-native'
 
 export const styles = StyleSheet.create ({
   betterButton: {
+    alignSelf: 'flex-start',
     borderRadius: 8,
     paddingTop: 12,
     paddingRight: 22,
